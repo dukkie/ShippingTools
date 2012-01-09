@@ -1,3 +1,4 @@
+<!-- calculate shipping fees to Voice Studio. author dukkiedukkie, marie ao -->
 <HTML>
 <HEAD>
 <TITLE>★SHOPPING LIST★</TITLE>
